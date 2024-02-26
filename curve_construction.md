@@ -3,6 +3,12 @@
 
 # Yield Curve Construction (Bootstrap)
 
+Definations:
+
+- **Yield Curve**: is to map the market quotes of liquid instrument to curve which would represent the expectation of the future rate
+- **Term Structure**: describes the relationship between yields with different matruities 
+
+
 ### Step 1: Market Data
 
 Gather market data on fixed income instruments, including their prices and corresponding maturities.
